@@ -68,7 +68,7 @@ export default function ContactMain() {
                 >
                   Email
                 </h4>
-                <p className="small">sales@minasresourcescoltd.com</p>
+                <p className="small">sales@Minasresourcescoltd.com</p>
               </div>
             </div>
           </div>

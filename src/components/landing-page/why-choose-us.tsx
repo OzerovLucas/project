@@ -18,7 +18,7 @@ export default function WhyChooseUs() {
                 Variety Of Supply
               </h3>
               <p>
-                In minas Resources Co Ltd, we have different kinds of
+                In Minas Resources Co Ltd, we have different kinds of
                 products available in our factory ready for shipment, and at
                 discount sales depending on your demand.
               </p>
