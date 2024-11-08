@@ -80,7 +80,7 @@ export default function OilMain() {
                 className="text-[#333]"
                 style={{ textTransform: "uppercase" }}
               >
-                One of the reasons Minabrasil Resources was founded
+                One of the reasons minas Resources was founded
               </h5>
               <div>
                 <h5 className="text-4xl font-semibold mt-6">

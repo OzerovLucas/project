@@ -5,7 +5,7 @@ export default function About() {
         <div className="p-5 my-auto lg:mx-[100px] text-center">
           <h2 className="py-3 text-3xl font-bold">ABOUT US</h2>
           <p className="mt-2.5">
-            Minabrasil Resources Co Ltd is a leading manufacturer and exporter
+            minas Resources Co Ltd is a leading manufacturer and exporter
             of different kinds of Brazilian products, we have different kinds of
             Brazilian products available in our factory and ready for delivery
             at a discount sales depending on quantity. We manufacture the

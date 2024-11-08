@@ -19,7 +19,7 @@ export default function AboutMain() {
             </h2>
             <div className="card-body space-y-4">
               <p>
-                Minabrasil Resources Co Ltd is a leading manufacturer and
+                minas Resources Co Ltd is a leading manufacturer and
                 exporter of different kinds of Brazilian products, we have
                 different kinds of Brazilian products available in our factory
                 and ready for delivery at a discount sales depending on

@@ -16,7 +16,7 @@ export default function AboutCarousel() {
             <div className="grid items-center justify-center p-6">
               <div className="grid gap-3 lg:gap-5">
                 <p className="text-lg lg:text-xl">
-                  &ldquo;Working with our Minabrasil Resources Co Ltd has been
+                  &ldquo;Working with our minas Resources Co Ltd has been
                   an incredible experience. The level of collaboration and
                   support is outstanding. .&ldquo;
                 </p>
