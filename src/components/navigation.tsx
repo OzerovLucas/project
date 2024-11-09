@@ -67,9 +67,9 @@ export default function NavigationBar() {
       <div className="container mx-auto flex h-16 items-center justify-between px-4 md:px-6">
         <a href="/">
           <img
-            src="/logo.jpeg"
+            src="/logo.png"
             alt="Brasil"
-            className="w-[100px] h-[60px] my-2.5 mx-5"
+            className="w-[60px] h-[60px] my-2.5 mx-5"
           />
         </a>
         <nav className="hidden items-center gap-6 lg:flex">
