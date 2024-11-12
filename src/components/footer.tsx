@@ -14,13 +14,13 @@ export default function Footer() {
               <a href="./about">About Us</a>
             </li>
             <li>
-              <a href="contract-procedure.php">Procedure for contract</a>
+              <a href="./procedure">Procedure for contract</a>
             </li>
             <li>
-              <a href="payment.php">Payment</a>
+              <a href="./payment">Payment</a>
             </li>
             <li>
-              <a href="place-order.php">Place your order</a>
+              <a href="./order">Place your order</a>
             </li>
             <li>Availability 24/7 Mon - Sun</li>
           </ul>
